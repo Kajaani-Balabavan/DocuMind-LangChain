@@ -1,4 +1,4 @@
-# 🧠 DocuMind - LangChain RAG System
+# 🧠 [DocuMind - LangChain RAG System](https://kajaani-balabavan-documind-langchain-app-db5ifn.streamlit.app/)
 
 A RAG (Retrieval-Augmented Generation) system built with **LangChain**, **Streamlit**, and **Hugging Face APIs**. Features conversational memory, advanced document processing, and multiple vector store options.
 
